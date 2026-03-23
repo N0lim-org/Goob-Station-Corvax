@@ -20,3 +20,13 @@ flavor-base-old = старый
 flavor-base-robust = крепкий
 flavor-complex-unicorntears = как слёзы единорога
 flavor-base-chuddy = приятный
+
+
+## Tastes for dress # CorvaxGoob
+
+# Base
+flavor-base-elegant = элегантно
+
+# Complex
+flavor-complex-greytide = как грейтайд
+flavor-complex-colored-greytide = как покрашенный грейтайд

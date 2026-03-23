@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 # Black elegant dress
 - type: entity
-  parent: ClothingUniformSkirtBase
+  parent: ClothingUniformJumpskirtElegantDressBase # CorvaxGoob
   id: ClothingUniformJumpskirtBlackElegantDress
   name: black elegant dress
   description: Elegant dress with a beautiful bow.
@@ -33,7 +33,7 @@
 
 # Red elegant dress
 - type: entity
-  parent: ClothingUniformSkirtBase
+  parent: ClothingUniformJumpskirtElegantDressBase # CorvaxGoob
   id: ClothingUniformJumpskirtRedElegantDress
   name: red elegant dress
   description: Elegant dress with a beautiful bow.
@@ -62,7 +62,7 @@
 
 # Green elegant dress
 - type: entity
-  parent: ClothingUniformSkirtBase
+  parent: ClothingUniformJumpskirtElegantDressBase # CorvaxGoob
   id: ClothingUniformJumpskirtGreenElegantDress
   name: green elegant dress
   description: Elegant dress with a beautiful bow.
@@ -91,7 +91,7 @@
 
 # Blue elegant dress
 - type: entity
-  parent: ClothingUniformSkirtBase
+  parent: ClothingUniformJumpskirtElegantDressBase # CorvaxGoob
   id: ClothingUniformJumpskirtBlueElegantDress
   name: blue elegant dress
   description: Elegant dress with a beautiful bow.
@@ -120,7 +120,7 @@
 
 # Purple elegant dress
 - type: entity
-  parent: ClothingUniformSkirtBase
+  parent: ClothingUniformJumpskirtElegantDressBase # CorvaxGoob
   id: ClothingUniformJumpskirtPurpleElegantDress
   name: purple elegant dress
   description: Elegant dress with a beautiful bow.

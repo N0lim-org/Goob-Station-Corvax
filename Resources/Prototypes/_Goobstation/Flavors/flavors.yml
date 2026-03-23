@@ -115,3 +115,21 @@
   id: chuddy
   flavorType: Base
   description: flavor-base-chuddy
+
+
+# CorvaxGoob
+
+- type: flavor
+  id: elegant
+  flavorType: Base
+  description: flavor-base-elegant
+
+- type: flavor
+  id: greytide
+  flavorType: Complex
+  description: flavor-complex-greytide
+
+- type: flavor
+  id: colored-greytide
+  flavorType: Complex
+  description: flavor-complex-colored-greytide

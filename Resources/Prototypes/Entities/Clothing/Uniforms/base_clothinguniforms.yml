@@ -129,3 +129,25 @@
     foldVerbText: fold-verb-clothing-jacket
   - type: FoldableClothing
     foldedEquippedPrefix: folded
+
+# CorvaxGoob
+
+- type: entity
+  abstract: true
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtElegantDressBase
+  components:
+  - type: FlavorProfile
+    flavors:
+    - elegant
+    - fiber
+
+- type: entity
+  abstract: true
+  parent: ClothingUniformSkirtBase
+  id: ClothingUniformJumpskirtBase
+  components:
+  - type: FlavorProfile
+    flavors:
+    - colored-greytide
+    - fiber

@@ -10,7 +10,7 @@
 # Goobstation here is everything ClothingUniformFoldableBase and Sprites. Take ours here if upstreaming im lazy cant be bothered to webedit comment all this.
 # White Jumpskirt
 - type: entity
-  parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase]
+  parent: [ClothingUniformJumpskirtBase, ClothingUniformFoldableBase] # CorvaxGoob edit
   id: ClothingUniformJumpskirtColorWhite
   name: white jumpskirt
   description: A generic white jumpskirt with no rank markings.
@@ -51,10 +51,14 @@
         color: "#b3b3b3"
   - type: Clothing
     sprite: _Goobstation/Clothing/Uniforms/Jumpskirt/color/grey.rsi
+  - type: FlavorProfile
+    flavors:
+    - greytide
+    - fiber
 
 # Black Jumpskirt
 - type: entity
-  parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase]
+  parent: [ClothingUniformJumpskirtBase, ClothingUniformFoldableBase] # CorvaxGoob edit
   id: ClothingUniformJumpskirtColorBlack
   name: black jumpskirt
   description: A generic black jumpskirt with no rank markings.
@@ -78,7 +82,7 @@
 
 # Blue Jumpskirt
 - type: entity
-  parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase]
+  parent: [ClothingUniformJumpskirtBase, ClothingUniformFoldableBase] # CorvaxGoob edit
   id: ClothingUniformJumpskirtColorBlue
   name: blue jumpskirt
   description: A generic blue jumpskirt with no rank markings.
@@ -102,7 +106,7 @@
 
 # Dark Blue Jumpskirt
 - type: entity
-  parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase]
+  parent: [ClothingUniformJumpskirtBase, ClothingUniformFoldableBase] # CorvaxGoob edit
   id: ClothingUniformJumpskirtColorDarkBlue
   name: dark blue jumpskirt
   description: A generic dark blue jumpskirt with no rank markings.
@@ -126,7 +130,7 @@
 
 # Teal Jumpskirt
 - type: entity
-  parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase]
+  parent: [ClothingUniformJumpskirtBase, ClothingUniformFoldableBase] # CorvaxGoob edit
   id: ClothingUniformJumpskirtColorTeal
   name: teal jumpskirt
   description: A generic teal jumpskirt with no rank markings.
@@ -150,7 +154,7 @@
 
 # Green Jumpskirt
 - type: entity
-  parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase]
+  parent: [ClothingUniformJumpskirtBase, ClothingUniformFoldableBase] # CorvaxGoob edit
   id: ClothingUniformJumpskirtColorGreen
   name: green jumpskirt
   description: A generic green jumpskirt with no rank markings.
@@ -174,7 +178,7 @@
 
  # Dark Green Jumpskirt
 - type: entity
-  parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase]
+  parent: [ClothingUniformJumpskirtBase, ClothingUniformFoldableBase] # CorvaxGoob edit
   id: ClothingUniformJumpskirtColorDarkGreen
   name: dark green jumpskirt
   description: A generic dark green jumpskirt with no rank markings.
@@ -198,7 +202,7 @@
 
 # Orange Jumpskirt
 - type: entity
-  parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase]
+  parent: [ClothingUniformJumpskirtBase, ClothingUniformFoldableBase] # CorvaxGoob edit
   id: ClothingUniformJumpskirtColorOrange
   name: orange jumpskirt
   description: Don't wear this near paranoid security officers.
@@ -222,7 +226,7 @@
 
 # Pink Jumpskirt
 - type: entity
-  parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase]
+  parent: [ClothingUniformJumpskirtBase, ClothingUniformFoldableBase] # CorvaxGoob edit
   id: ClothingUniformJumpskirtColorPink
   name: pink jumpskirt
   description: Just looking at this makes you feel <i>fabulous</i>.
@@ -246,7 +250,7 @@
 
 # Red Jumpskirt
 - type: entity
-  parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase]
+  parent: [ClothingUniformJumpskirtBase, ClothingUniformFoldableBase] # CorvaxGoob edit
   id: ClothingUniformJumpskirtColorRed
   name: red jumpskirt
   description: A generic red jumpskirt with no rank markings.
@@ -270,7 +274,7 @@
 
 # Yellow Jumpskirt
 - type: entity
-  parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase]
+  parent: [ClothingUniformJumpskirtBase, ClothingUniformFoldableBase] # CorvaxGoob edit
   id: ClothingUniformJumpskirtColorYellow
   name: yellow jumpskirt
   description: A generic yellow jumpskirt with no rank markings.
@@ -294,7 +298,7 @@
 
 # Purple Jumpskirt
 - type: entity
-  parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase]
+  parent: [ClothingUniformJumpskirtBase, ClothingUniformFoldableBase] # CorvaxGoob edit
   id: ClothingUniformJumpskirtColorPurple
   name: purple jumpskirt
   description: A generic light purple jumpskirt with no rank markings.
@@ -318,7 +322,7 @@
 
 # Light Brown Jumpskirt
 - type: entity
-  parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase]
+  parent: [ClothingUniformJumpskirtBase, ClothingUniformFoldableBase] # CorvaxGoob edit
   id: ClothingUniformJumpskirtColorLightBrown
   name: light brown jumpskirt
   description: A generic light brown jumpskirt with no rank markings.
@@ -342,7 +346,7 @@
 
 # Brown Jumpskirt
 - type: entity
-  parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase]
+  parent: [ClothingUniformJumpskirtBase, ClothingUniformFoldableBase] # CorvaxGoob edit
   id: ClothingUniformJumpskirtColorBrown
   name: brown jumpskirt
   description: A generic brown jumpskirt with no rank markings.
@@ -366,7 +370,7 @@
 
 # Maroon Jumpskirt
 - type: entity
-  parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase]
+  parent: [ClothingUniformJumpskirtBase, ClothingUniformFoldableBase] # CorvaxGoob edit
   id: ClothingUniformJumpskirtColorMaroon
   name: maroon jumpskirt
   description: A generic maroon jumpskirt with no rank markings.
@@ -390,7 +394,7 @@
 
 # Rainbow Jumpskirt
 - type: entity
-  parent: ClothingUniformSkirtBase # Goob
+  parent: ClothingUniformJumpskirtBase # CorvaxGoob edit
   id: ClothingUniformJumpskirtColorRainbow
   name: rainbow jumpskirt
   description: A multi-colored jumpskirt!
